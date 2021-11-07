@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonardocarlas
-- 👀 I’m interested in computational sustainability, startups, political economic, sports and collectible cards.
+- 👀 I’m interested in computational sustainability, startups, political economy, sports and collectible cards.
 - 🌱 I’m currently learning operations research programming, typescript APIs
 - 💞️ I’m looking to collaborate on new projects concerning the environment
 - 📫 How to reach me: leonardo.carlassare@studenti.unipd.it
